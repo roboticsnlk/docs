@@ -1,6 +1,7 @@
 body {
     background: #f8f9fa;
     font-family: system-ui, -apple-system, Arial;
+    padding-top: 70px; /* Space for fixed navbar */
 }
 
 /* Headings */
